@@ -251,7 +251,6 @@
     <Compile Include="Assets\Scripts\King.cs" />
     <Compile Include="Assets\Scripts\Knight.cs" />
     <Compile Include="Assets\Scripts\Pawn.cs" />
-    <Compile Include="Assets\Scripts\PlayerControl.cs" />
     <Compile Include="Assets\Scripts\Queen.cs" />
     <Compile Include="Assets\Scripts\Rook.cs" />
     <Compile Include="Assets\Scripts\TeamColor.cs" />
